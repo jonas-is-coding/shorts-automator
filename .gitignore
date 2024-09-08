@@ -5,3 +5,4 @@ videos
 splitted
 .env
 __pycache__
+*.pyc
